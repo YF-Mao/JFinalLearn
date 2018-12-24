@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.axis:axis-jaxrpc:unknown">
+    <CLASSES>
+      <root url="jar://D:/software/maven/repository/org/apache/axis/axis-jaxrpc/unknown/axis-jaxrpc-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/software/maven/repository/org/apache/axis/axis-jaxrpc/unknown/axis-jaxrpc-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/software/maven/repository/org/apache/axis/axis-jaxrpc/unknown/axis-jaxrpc-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
